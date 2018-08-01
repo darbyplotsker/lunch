@@ -1,0 +1,39 @@
+#monImage{
+    width: 250px;
+    height: 200px;
+}
+
+#tuesImage{
+    width: 300px;
+    height: 300px;
+}
+
+#wedImage{
+    width: 225px;
+    height: 200px;
+}
+
+#thursImage{
+    width: 250px;
+    height: 250px;
+}
+
+#friImage{
+    width: 275px;
+    height: 250px;
+}
+
+
+div{
+    border: solid 2px black;
+    margin: 7px;
+    text-align: center;
+    width: 25%; 
+}
+
+body{
+    display: flex;
+    align-content: space-around;
+
+
+}
